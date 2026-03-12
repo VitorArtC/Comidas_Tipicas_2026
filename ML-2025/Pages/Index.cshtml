@@ -1,0 +1,38 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Comidas Típicas";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Comidas Típicas</h1>
+    <p>Digite um texto para analisar se o sentimento é positivo ou negativo.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <form method="post">
+            <div class="form-group mb-3">
+                <label for="text-input" class="form-label">Seu Texto:</label>
+                <textarea asp-for="InputText" class="form-control" id="text-input" rows="4"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Analisar</button>
+        </form>
+
+        @if (Model.PredictionResult != null)
+
+        {
+
+            var isPositive = Model.PredictionResult.PredictedLabel;
+            var sentiment = isPositive ? "Positivo 👍" : "Negativo 👎";
+            var alertClass = isPositive ? "alert-success" : "alert-danger";
+
+            <div class="alert @alertClass mt-4">
+                <h4>Resultado da Anáise</h4>
+                <p><strong>Sentimento:</strong> @sentiment</p>
+
+                <p><strong>Confiança:</strong> @Model.PredictionResult.Probability.ToString("P1")</p>
+            </div>
+        }
+    </div>
+</div>
