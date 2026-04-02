@@ -1,7 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.ML;
-using ML_2025.Models; 
+using ML_2025.Models;
+using ML_2025.Services;
 
 public class IndexModel : PageModel
 {
@@ -29,11 +30,23 @@ public class IndexModel : PageModel
         {
             return Page(); 
         }
-        
 
+        Logs logs = new Logs();
+        logs.GenerateLogRequest(InputText);
         var inputData = new SentimentData { Text = InputText };
         PredictionResult = _predictionEngine.Predict(inputData);
 
+        logs.GenerateLogRequestResponse(InputText, PredictionResult.PredictedLabel.ToString());
         return Page();
+    }
+
+    // Este Handler será ativado quando clicarmos nos botões de feedback no HTML
+    public IActionResult OnPostFeedback(string input, string resposta, EnumTipoFeedback.feedback tipo)
+    {
+        Feedback feedback = new Feedback();
+        feedback.GenerateFeedback(input, resposta, tipo);
+        
+        // Redireciona a página para limpar o formulário
+        return RedirectToPage();
     }
 }

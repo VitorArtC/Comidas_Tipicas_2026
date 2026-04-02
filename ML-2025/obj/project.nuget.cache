@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h3mdi1M+FxM=",
+  "dgSpecHash": "RrgdudxNktY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\ML-2025.csproj",
+  "projectFilePath": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\ML-2025.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor Arthur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Vitor Arthur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",

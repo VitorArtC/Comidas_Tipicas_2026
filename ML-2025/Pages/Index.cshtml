@@ -1,38 +1,53 @@
-﻿@page
+@page
 @model IndexModel
 @{
     ViewData["Title"] = "Comidas Típicas";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Comidas Típicas</h1>
-    <p>Digite um texto para analisar se o sentimento é positivo. ou negativo.</p>
+    <h1 class="display-4">Validador lógico de <strong>Comidas Típicas</strong>.</h1>
+    <p>Digite o nome de uma comida e a região. Sua pergunta será analisada e respondida <strong>true</strong> caso a comida realmente seja originária daquela região, ou <strong>false</strong> caso não seja.</p>
+    <p>Para maior precisão, digite o prompt separados por vírgula dessa maneira: "Comida, Região"</p>
 </div>
 
 <div class="row">
     <div class="col-md-6 offset-md-3">
         <form method="post">
             <div class="form-group mb-3">
-                <label for="text-input" class="form-label">Seu Texto:</label>
-                <textarea asp-for="InputText" class="form-control" id="text-input" rows="4"></textarea>
+                <label for="text-input" class="form-label">Digite Aqui:</label>
+                <textarea asp-for="InputText" class="form-control" id="text-input" rows="3" placeholder="Ex: Pão de Queijo, Minas Gerais"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Analisar</button>
+            <button type="submit" class="btn btn-primary w-100">Validar Origem</button>
         </form>
 
         @if (Model.PredictionResult != null)
-
         {
+            var isAuthentic = Model.PredictionResult.PredictedLabel;
+            var resultMessage = isAuthentic ? "Verdadeiro (True)" : "Falso (False)";
+            var alertClass = isAuthentic ? "alert-success" : "alert-danger";
 
-            var isPositive = Model.PredictionResult.PredictedLabel;
-            var sentiment = isPositive ? "Positivo 👍" : "Negativo 👎";
-            var alertClass = isPositive ? "alert-success" : "alert-danger";
-
-            <div class="alert @alertClass mt-4">
-                <h4>Resultado da Anáise</h4>
-                <p><strong>Sentimento:</strong> @sentiment</p>
-
-                <p><strong>Confiança:</strong> @Model.PredictionResult.Probability.ToString("P1")</p>
+            <div class="alert @alertClass mt-4 shadow-sm">
+                <h4 class="alert-heading">Resultado da Análise</h4>
+                <hr>
+                <p class="mb-1"><strong>A comida pertence à região indicada?</strong> @resultMessage</p>
+                <p class="mb-0"><strong>Confiança da I.A:</strong> @Model.PredictionResult.Probability.ToString("P1")</p>
             </div>
+
+            <!-- Formulário que submete para o OnPostFeedback no modelo -->
+            <form method="post" asp-page-handler="Feedback" class="mt-3 text-center">
+                <!-- Passamos o texto e a resposta como campos ocultos (parâmetros do OnPostFeedback) -->
+                <input type="hidden" name="input" value="@Model.InputText" />
+                <input type="hidden" name="resposta" value="@resultMessage" />
+
+                <p>O que você achou desta previsão da I.A?</p>
+                <div class="btn-group" role="group">
+                    <button type="submit" name="tipo" value="positivo" class="btn btn-outline-success">Correto</button>
+                    <button type="submit" name="tipo" value="neutro" class="btn btn-outline-secondary">Neutro</button>
+                    <button type="submit" name="tipo" value="negativo" class="btn btn-outline-danger">Incorreto</button>
+                </div>
+            </form>
         }
+
+        
     </div>
 </div>
