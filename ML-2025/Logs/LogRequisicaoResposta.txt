@@ -1,1 +1,8 @@
 04/04/2026  11:13:09.569 - Pamonha, Goiás - False
+04/04/2026  12:20:35.640 - Moqueca Baiana, Bahia - True
+04/04/2026  12:20:40.560 - Moqueca Baiana, Itália - True
+04/04/2026  12:20:49.775 - Moqueca Baiana, Bahia - True
+04/04/2026  12:20:58.022 - Moqueca Baiana - True
+04/04/2026  12:21:03.519 - Moqueca Baiana, - True
+04/04/2026  12:21:12.926 - Bahia - False
+04/04/2026  12:21:51.813 - Moqueca Baiana, Bahia - True
