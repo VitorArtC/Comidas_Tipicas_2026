@@ -6,3 +6,45 @@
 04/04/2026 12:21:03.518 - Moqueca Baiana,
 04/04/2026 12:21:12.925 - Bahia
 04/04/2026 12:21:51.812 - Moqueca Baiana, Bahia
+04/04/2026 13:29:16.701 - Pão de Queijo, Minas Gerais
+04/04/2026 13:29:23.709 - Pão de Queijo, Paquistão
+04/04/2026 13:29:57.305 - Acarajé, Bahia
+04/04/2026 13:37:24.339 - Pão de Queijo, Minas Gerais
+04/04/2026 13:37:28.929 - Pão de Queijo, Bahia
+04/04/2026 13:38:26.639 - Acarajé, Bahia
+04/04/2026 13:38:32.200 - Acarajé, São Paulo
+04/04/2026 13:38:35.665 - São Paulo
+04/04/2026 13:38:42.077 - Acarajé, São Paulo
+04/04/2026 13:39:35.541 - Acarajé, Brasil
+04/04/2026 13:39:40.378 - Acarajé, Itália
+04/04/2026 13:39:50.248 - Acarajé, Finlandia
+04/04/2026 13:39:53.558 - Acarajé, Bahia
+04/04/2026 13:39:57.025 - Acarajé
+04/04/2026 13:40:11.780 - Acarajé é da Bahia
+04/04/2026 13:40:17.203 - Acarajé é de São Paulo
+04/04/2026 13:44:06.483 - Acarajé, Bahia
+04/04/2026 13:44:12.307 - Acarajé, São Paulo
+04/04/2026 13:44:36.006 - Acarajé, Bahia
+04/04/2026 13:45:42.527 - Acarajé, Bahia
+04/04/2026 13:45:46.518 - Acarajé, São Paulo
+04/04/2026 13:45:57.712 - Acarajé, Itália
+04/04/2026 13:49:01.114 - Acarajé, Bahia
+04/04/2026 13:49:05.963 - Acarajé, São Paulo
+04/04/2026 13:49:21.150 - Pizza, Itália
+04/04/2026 13:49:33.254 - Pizza, Espanha
+04/04/2026 13:49:38.065 - Pizza, Brasil
+04/04/2026 13:49:57.996 - Cuscuz, Bahia
+04/04/2026 13:50:53.368 - Cuscuz, São Paulo
+04/04/2026 13:50:59.228 - Cuscuz Paulista, São Paulo
+04/04/2026 13:51:03.798 - Cuscuz, São Paulo
+04/04/2026 13:52:40.349 - Acarajé, Bahia
+04/04/2026 13:52:57.114 - Acarajé, São Paulo
+04/04/2026 14:04:08.172 - Cuscuz Paulista, São Paulo
+04/04/2026 14:04:21.071 - Cuscuz Paulista, Itália
+04/04/2026 14:19:40.727 - Pão de Queijo, Bahia
+04/04/2026 14:19:52.964 - Pão de Queijo, Minas Gerais
+04/04/2026 14:20:18.940 - Pão de Queijo, Bahia
+04/04/2026 14:24:10.592 - Pão de Queijo, Minas Gerais
+04/04/2026 14:24:23.829 - Pão de Queijo, Fortaleza
+04/04/2026 14:36:20.713 - Pão de Queijo, Minas Gerais
+04/04/2026 14:36:38.601 - Pão de Queijo, Fortaleza

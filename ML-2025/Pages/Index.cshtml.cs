@@ -36,6 +36,11 @@ public class IndexModel : PageModel
         var inputData = new SentimentData { Text = InputText };
         PredictionResult = _predictionEngine.Predict(inputData);
 
+        if (PredictionResult.Probability < 0.85f)
+        {
+            PredictionResult.PredictedLabel = false;
+        }
+
         logs.GenerateLogRequestResponse(InputText, PredictionResult.PredictedLabel.ToString());
         return Page();
     }

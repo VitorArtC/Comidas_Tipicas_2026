@@ -6,3 +6,45 @@
 04/04/2026  12:21:03.519 - Moqueca Baiana, - True
 04/04/2026  12:21:12.926 - Bahia - False
 04/04/2026  12:21:51.813 - Moqueca Baiana, Bahia - True
+04/04/2026  13:29:16.793 - Pão de Queijo, Minas Gerais - True
+04/04/2026  13:29:23.714 - Pão de Queijo, Paquistão - True
+04/04/2026  13:29:57.307 - Acarajé, Bahia - False
+04/04/2026  13:37:24.354 - Pão de Queijo, Minas Gerais - True
+04/04/2026  13:37:28.930 - Pão de Queijo, Bahia - True
+04/04/2026  13:38:26.646 - Acarajé, Bahia - True
+04/04/2026  13:38:32.201 - Acarajé, São Paulo - True
+04/04/2026  13:38:35.666 - São Paulo - True
+04/04/2026  13:38:42.078 - Acarajé, São Paulo - True
+04/04/2026  13:39:35.542 - Acarajé, Brasil - True
+04/04/2026  13:39:40.378 - Acarajé, Itália - True
+04/04/2026  13:39:50.249 - Acarajé, Finlandia - True
+04/04/2026  13:39:53.559 - Acarajé, Bahia - True
+04/04/2026  13:39:57.026 - Acarajé - True
+04/04/2026  13:40:11.781 - Acarajé é da Bahia - True
+04/04/2026  13:40:17.204 - Acarajé é de São Paulo - True
+04/04/2026  13:44:06.499 - Acarajé, Bahia - False
+04/04/2026  13:44:12.307 - Acarajé, São Paulo - False
+04/04/2026  13:44:36.007 - Acarajé, Bahia - False
+04/04/2026  13:45:42.528 - Acarajé, Bahia - False
+04/04/2026  13:45:46.519 - Acarajé, São Paulo - False
+04/04/2026  13:45:57.713 - Acarajé, Itália - False
+04/04/2026  13:49:01.130 - Acarajé, Bahia - True
+04/04/2026  13:49:05.964 - Acarajé, São Paulo - False
+04/04/2026  13:49:21.151 - Pizza, Itália - True
+04/04/2026  13:49:33.255 - Pizza, Espanha - False
+04/04/2026  13:49:38.065 - Pizza, Brasil - False
+04/04/2026  13:49:57.997 - Cuscuz, Bahia - False
+04/04/2026  13:50:53.371 - Cuscuz, São Paulo - False
+04/04/2026  13:50:59.229 - Cuscuz Paulista, São Paulo - True
+04/04/2026  13:51:03.799 - Cuscuz, São Paulo - False
+04/04/2026  13:52:40.350 - Acarajé, Bahia - True
+04/04/2026  13:52:57.115 - Acarajé, São Paulo - False
+04/04/2026  14:04:08.261 - Cuscuz Paulista, São Paulo - True
+04/04/2026  14:04:21.072 - Cuscuz Paulista, Itália - False
+04/04/2026  14:19:40.769 - Pão de Queijo, Bahia - False
+04/04/2026  14:19:52.965 - Pão de Queijo, Minas Gerais - True
+04/04/2026  14:20:18.941 - Pão de Queijo, Bahia - False
+04/04/2026  14:24:10.593 - Pão de Queijo, Minas Gerais - True
+04/04/2026  14:24:23.830 - Pão de Queijo, Fortaleza - False
+04/04/2026  14:36:20.716 - Pão de Queijo, Minas Gerais - True
+04/04/2026  14:36:38.602 - Pão de Queijo, Fortaleza - False
