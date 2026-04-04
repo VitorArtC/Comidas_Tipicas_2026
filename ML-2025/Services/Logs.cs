@@ -5,12 +5,20 @@
 
         public void GenerateLogRequest(string input)
         {
-            var log = DateTime.Now.ToString("dd/MM/yyyy HH:mm"+" - "+"input");
+            string log = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss.fff") + " - " + input;
+
+            string Caminho = @"Logs\LogRequisicao.txt";
+            File.AppendAllText(Caminho, log + "\n");
+
         }
 
         public void GenerateLogRequestResponse(string input, string resposta)
         {
-            var log = DateTime.Now.ToString("dd/MM/yyyy HH:mm" + " - " + "input"+ resposta);
+            string log = DateTime.Now.ToString("dd/MM/yyyy  HH:mm:ss.fff") + " - " + input + " - " + resposta;
+
+            string Caminho = @"Logs\LogRequisicaoResposta.txt";
+            File.AppendAllText(Caminho, log + "\n");
+
         }
     }
 }

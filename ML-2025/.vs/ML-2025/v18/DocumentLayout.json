@@ -1,49 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\services\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:services\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\services\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:services\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\services\\modelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\services\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:services\\logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\services\\modelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:services\\modelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\models\\predictrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\predictrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\models\\predictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\predictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\mlmodels\\sentiment.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:mlmodels\\sentiment.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\ml-2025.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:ml-2025.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\models\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\models\\enumtipofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\enumtipofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\models\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\downloads\\ml-2025\\ml-2025\\models\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\models\\predictrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\predictrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\models\\predictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\predictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|c:\\users\\vitor arthur\\documents\\comidas_tipicas_2026\\ml-2025\\models\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F76AC0-B5AF-46A1-A62F-F3D65F0C2CD4}|ML-2025.csproj|solutionrelative:models\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,140 +101,231 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\Feedback.cs",
+              "RelativeDocumentMoniker": "Services\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\Feedback.cs",
+              "RelativeToolTip": "Services\\Feedback.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:07:06.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T12:51:29.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Logs.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Services\\Logs.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\Logs.cs",
               "RelativeDocumentMoniker": "Services\\Logs.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Services\\Logs.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\Logs.cs",
               "RelativeToolTip": "Services\\Logs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T22:47:47.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA0wB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T00:27:47.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-26T00:27:47.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-26T00:27:47.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PredictRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\PredictRequest.cs",
-              "RelativeDocumentMoniker": "Models\\PredictRequest.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\PredictRequest.cs",
-              "RelativeToolTip": "Models\\PredictRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T00:27:47.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "sentiment.csv",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\MLModels\\sentiment.csv",
-              "RelativeDocumentMoniker": "MLModels\\sentiment.csv",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\MLModels\\sentiment.csv",
-              "RelativeToolTip": "MLModels\\sentiment.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2026-02-26T00:27:47.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T00:27:47.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ModelBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Services\\ModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\ModelBuilder.cs",
               "RelativeDocumentMoniker": "Services\\ModelBuilder.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Services\\ModelBuilder.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Services\\ModelBuilder.cs",
               "RelativeToolTip": "Services\\ModelBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T00:27:47.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PredictionResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\PredictionResponse.cs",
-              "RelativeDocumentMoniker": "Models\\PredictionResponse.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\PredictionResponse.cs",
-              "RelativeToolTip": "Models\\PredictionResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T00:27:47.245Z",
+              "WhenOpened": "2026-02-26T00:27:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T12:47:29.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:48:51.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:48:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:53:31.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:27:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T13:47:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T22:37:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ML-2025",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\ML-2025.csproj",
+              "RelativeDocumentMoniker": "ML-2025.csproj",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\ML-2025.csproj",
+              "RelativeToolTip": "ML-2025.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T12:22:12.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnumTipoFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\EnumTipoFeedback.cs",
+              "RelativeDocumentMoniker": "Models\\EnumTipoFeedback.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\EnumTipoFeedback.cs",
+              "RelativeToolTip": "Models\\EnumTipoFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:23:01.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SentimentPrediction.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\SentimentPrediction.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\SentimentPrediction.cs",
               "RelativeDocumentMoniker": "Models\\SentimentPrediction.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\SentimentPrediction.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\SentimentPrediction.cs",
               "RelativeToolTip": "Models\\SentimentPrediction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T00:27:47.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "PredictRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\PredictRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PredictRequest.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\PredictRequest.cs",
+              "RelativeToolTip": "Models\\PredictRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:27:47.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PredictionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\PredictionResponse.cs",
+              "RelativeDocumentMoniker": "Models\\PredictionResponse.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\PredictionResponse.cs",
+              "RelativeToolTip": "Models\\PredictionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:27:47.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "SentimentData.cs",
-              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\SentimentData.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\SentimentData.cs",
               "RelativeDocumentMoniker": "Models\\SentimentData.cs",
-              "ToolTip": "C:\\Users\\Vitor Arthur\\Downloads\\ML-2025\\ML-2025\\Models\\SentimentData.cs",
+              "ToolTip": "C:\\Users\\Vitor Arthur\\Documents\\Comidas_Tipicas_2026\\ML-2025\\Models\\SentimentData.cs",
               "RelativeToolTip": "Models\\SentimentData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
