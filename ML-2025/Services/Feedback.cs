@@ -5,7 +5,7 @@ namespace ML_2025.Services
 {
     public class Feedback
     {
-        public void GenerateFeedback(string input, string resposta, EnumTipoFeedback.feedback tipoFeedback)
+        public void GenerateFeedback(string input, string resposta, EnumTipoFeedback tipoFeedback)
         {
             string log = $"{DateTime.Now:dd/MM/yyyy HH:mm} - {input} | Resposta: {resposta} | Feedback: {tipoFeedback}";
 

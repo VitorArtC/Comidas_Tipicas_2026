@@ -26,7 +26,7 @@ public class IndexModel : PageModel
 
     public IActionResult OnPost()
     {
-        if (string.IsNullOrWhiteSpace(InputText))
+        if (string.IsNullOrWhiteSpace(InputText.Trim()))
         {
             return Page(); 
         }
@@ -45,7 +45,7 @@ public class IndexModel : PageModel
         return Page();
     }
 
-    public IActionResult OnPostFeedback(string input, string resposta, EnumTipoFeedback.feedback tipo)
+    public IActionResult OnPostFeedback(string input, string resposta, EnumTipoFeedback tipo)
     {
         Feedback feedback = new Feedback();
         feedback.GenerateFeedback(input, resposta, tipo);

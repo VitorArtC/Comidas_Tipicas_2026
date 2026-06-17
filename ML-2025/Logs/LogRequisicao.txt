@@ -48,3 +48,49 @@
 04/04/2026 14:24:23.829 - Pão de Queijo, Fortaleza
 04/04/2026 14:36:20.713 - Pão de Queijo, Minas Gerais
 04/04/2026 14:36:38.601 - Pão de Queijo, Fortaleza
+05/04/2026 23:01:32.279 - Feijoada, São Paulo
+06/04/2026 19:31:08.836 - pão de queijo, discord
+06/04/2026 19:31:18.327 - pão de queijo, minas
+
+06/04/2026 19:31:27.783 - pão de queijo, minas gerais
+
+06/04/2026 19:31:42.724 - Pão de Queijo, Minas Gerais
+
+06/04/2026 19:34:09.897 - Pão de Queijo, Minas Gerais
+06/04/2026 19:34:21.373 - Pão de Queijo, França
+06/04/2026 19:35:07.257 - pão de queijo, minas gerais
+06/04/2026 19:35:13.821 - pão de queijo, minas 
+
+06/04/2026 19:35:18.487 - pão de queijo, minas
+06/04/2026 19:35:25.846 - pão de queijo, discord
+06/04/2026 19:35:40.131 - pão de queijo, minas gerais
+06/04/2026 19:35:46.152 - pão de queijo, minas gerias
+06/04/2026 19:36:02.389 - cuscuz paulista, rio de janeiro
+06/04/2026 19:36:09.992 - cuscuz paulista, são paulo
+06/04/2026 19:36:15.809 - cuscuz paulista, sao paulo
+06/04/2026 19:36:24.933 - cuzcuz paulista, sao paulo
+06/04/2026 19:36:41.938 - pão francês, frança
+06/04/2026 19:37:07.623 - aracaje, bahia
+
+06/04/2026 19:37:14.970 - aracaje, bahia
+06/04/2026 19:37:23.704 - aracajé, bahia
+06/04/2026 19:37:39.888 - acaraje, bahia
+06/04/2026 19:37:53.597 - acaraje, bahea
+06/04/2026 19:38:26.169 - pão de queijo é de minas gerais?
+06/04/2026 19:38:30.650 - pão de queijo é de minas gerais
+06/04/2026 19:38:40.885 - pão de queijo minas gerais
+06/04/2026 19:38:49.243 - pão de queijo, minas gerais
+06/04/2026 19:39:32.309 - pão de queijo, discord
+06/04/2026 19:39:41.468 - pão de queijo, minas gerais
+
+06/04/2026 19:39:45.625 - pão de queijo, minas gerais
+06/04/2026 19:49:17.257 - pão de queijo, minas gerais
+06/04/2026 19:49:21.859 - pão de queijo, minas gerais 
+06/04/2026 19:49:32.744 -   pão de queijo, minas gerais   
+23/04/2026 00:41:00.901 - Pequi, Goiás
+23/04/2026 00:41:09.338 - Pequi, França
+23/04/2026 00:41:29.924 - Cuscuz Paulista, São Paulo
+23/04/2026 00:41:45.908 - Churrasco Gaúcho, Sul
+23/04/2026 00:41:52.656 - Churrasco Gaúcho, Rio Grande do Sul
+23/04/2026 00:41:55.649 - Gaúcho, Rio Grande do Sul
+23/04/2026 00:42:07.655 - Pamonha, Goiás

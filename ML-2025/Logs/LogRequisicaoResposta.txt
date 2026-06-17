@@ -48,3 +48,49 @@
 04/04/2026  14:24:23.830 - Pão de Queijo, Fortaleza - False
 04/04/2026  14:36:20.716 - Pão de Queijo, Minas Gerais - True
 04/04/2026  14:36:38.602 - Pão de Queijo, Fortaleza - False
+05/04/2026  23:01:32.321 - Feijoada, São Paulo - False
+06/04/2026  19:31:08.999 - pão de queijo, discord - False
+06/04/2026  19:31:18.329 - pão de queijo, minas
+ - False
+06/04/2026  19:31:27.783 - pão de queijo, minas gerais
+ - False
+06/04/2026  19:31:42.726 - Pão de Queijo, Minas Gerais
+ - False
+06/04/2026  19:34:10.246 - Pão de Queijo, Minas Gerais - True
+06/04/2026  19:34:21.449 - Pão de Queijo, França - False
+06/04/2026  19:35:07.258 - pão de queijo, minas gerais - True
+06/04/2026  19:35:13.834 - pão de queijo, minas 
+ - False
+06/04/2026  19:35:18.488 - pão de queijo, minas - False
+06/04/2026  19:35:25.847 - pão de queijo, discord - False
+06/04/2026  19:35:40.149 - pão de queijo, minas gerais - True
+06/04/2026  19:35:46.154 - pão de queijo, minas gerias - False
+06/04/2026  19:36:02.390 - cuscuz paulista, rio de janeiro - False
+06/04/2026  19:36:09.993 - cuscuz paulista, são paulo - True
+06/04/2026  19:36:15.810 - cuscuz paulista, sao paulo - True
+06/04/2026  19:36:24.937 - cuzcuz paulista, sao paulo - False
+06/04/2026  19:36:41.940 - pão francês, frança - False
+06/04/2026  19:37:07.624 - aracaje, bahia
+ - False
+06/04/2026  19:37:14.971 - aracaje, bahia - False
+06/04/2026  19:37:23.705 - aracajé, bahia - False
+06/04/2026  19:37:39.892 - acaraje, bahia - True
+06/04/2026  19:37:53.598 - acaraje, bahea - False
+06/04/2026  19:38:26.170 - pão de queijo é de minas gerais? - False
+06/04/2026  19:38:30.678 - pão de queijo é de minas gerais - False
+06/04/2026  19:38:40.886 - pão de queijo minas gerais - False
+06/04/2026  19:38:49.244 - pão de queijo, minas gerais - True
+06/04/2026  19:39:32.310 - pão de queijo, discord - False
+06/04/2026  19:39:41.527 - pão de queijo, minas gerais
+ - False
+06/04/2026  19:39:45.627 - pão de queijo, minas gerais - True
+06/04/2026  19:49:17.325 - pão de queijo, minas gerais - True
+06/04/2026  19:49:21.860 - pão de queijo, minas gerais  - False
+06/04/2026  19:49:32.746 -   pão de queijo, minas gerais    - False
+23/04/2026  00:41:00.946 - Pequi, Goiás - True
+23/04/2026  00:41:09.339 - Pequi, França - False
+23/04/2026  00:41:29.925 - Cuscuz Paulista, São Paulo - True
+23/04/2026  00:41:45.909 - Churrasco Gaúcho, Sul - False
+23/04/2026  00:41:52.656 - Churrasco Gaúcho, Rio Grande do Sul - False
+23/04/2026  00:41:55.649 - Gaúcho, Rio Grande do Sul - False
+23/04/2026  00:42:07.656 - Pamonha, Goiás - True

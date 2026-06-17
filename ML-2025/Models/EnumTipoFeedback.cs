@@ -1,12 +1,9 @@
-﻿namespace ML_2025.Models
+namespace ML_2025.Models
 {
-    public class EnumTipoFeedback
+    public enum EnumTipoFeedback
     {
-        public enum feedback
-        {
-            positivo,
-            neutro,
-            negativo
-        }
+        positivo = 1,
+        neutro = 2,
+        negativo = 3
     }
 }

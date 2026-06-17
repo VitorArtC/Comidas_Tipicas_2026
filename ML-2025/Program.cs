@@ -1,16 +1,22 @@
 using Microsoft.ML;
 using ML_2025.Models;
 using ML_2025.Services;
+using ML_2025.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddRazorPages();
 
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite(connectionString));
 
 var pastaModelos = Path.Combine(AppContext.BaseDirectory, "MLModels");
 if (!File.Exists(Path.Combine(pastaModelos, "model.zip")))
-    ModelBuilder.Treinar(pastaModelos);
+    ModelBuilderML.Treinar(pastaModelos);
 
 var mlContext = new MLContext();
 var modelPath = Path.Combine(pastaModelos, "model.zip");
