@@ -8,7 +8,7 @@ namespace ML_2025.Services.Interfaces
 
         public Task<List<PredictRequestData>> GetAllAsync();
 
-        public Task<PredictRequestData?> GetByIdAsync();
+        public Task<PredictRequestData?> GetByIdAsync(Guid id);
         public Task CreateAsync(PredictRequestData entity);
 
         public Task UpdateAsync(PredictRequestData entity);

@@ -1,0 +1,54 @@
+@page
+@model ML_2025.Pages.LogsModel
+@{
+    ViewData["Title"] = "Logs da IA";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4 text-white">Logs de Validação</h1>
+    <p class="text-white">Abaixo estão os registros de inputs fornecidos pelos usuários e os resultados gerados pela IA.</p>
+
+    <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mt-3">
+            <thead class="table-dark">
+                <tr>
+                    <th>Data/Hora</th>
+                    <th>Entrada (Input)</th>
+                    <th>Resultado (IA)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.LogEntries != null && Model.LogEntries.Count > 0)
+                {
+                    foreach (var entry in Model.LogEntries)
+                    {
+                        <tr>
+                            <td>@entry.Timestamp</td>
+                            <td>@entry.Input</td>
+                            <td>
+                                @if (entry.Result.Equals("True", StringComparison.OrdinalIgnoreCase))
+                                {
+                                    <span class="badge bg-success">Comida Típica</span>
+                                }
+                                else if (entry.Result.Equals("False", StringComparison.OrdinalIgnoreCase))
+                                {
+                                    <span class="badge bg-danger">Não é Comida Típica</span>
+                                }
+                                else
+                                {
+                                    @entry.Result
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3" class="text-center text-muted">Nenhum log encontrado.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

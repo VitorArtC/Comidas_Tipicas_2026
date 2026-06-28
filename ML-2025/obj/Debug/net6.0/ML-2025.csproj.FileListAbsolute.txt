@@ -324,4 +324,3 @@ C:\Users\Vitor Arthur\Documents\Comidas_Tipicas_2026\ML-2025\bin\Debug\net6.0\ru
 C:\Users\Vitor Arthur\Documents\Comidas_Tipicas_2026\ML-2025\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Vitor Arthur\Documents\Comidas_Tipicas_2026\ML-2025\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Vitor Arthur\Documents\Comidas_Tipicas_2026\ML-2025\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\Vitor Arthur\Documents\Comidas_Tipicas_2026\ML-2025\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
