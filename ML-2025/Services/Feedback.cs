@@ -1,16 +1,29 @@
 using ML_2025.Models;
-using System.CodeDom.Compiler;
+using ML_2025.Services.Interfaces;
+using ML_2025.Tables;
 
 namespace ML_2025.Services
 {
     public class Feedback
     {
-        public void GenerateFeedback(string input, string resposta, EnumTipoFeedback tipoFeedback)
-        {
-            string log = $"{DateTime.Now:dd/MM/yyyy HH:mm} - {input} | Resposta: {resposta} | Feedback: {tipoFeedback}";
+        private readonly IFeedBackDataService _feedBackDataService;
 
-            string caminho = @"Logs\Feedback.txt";
-            File.AppendAllText(caminho, log +"\n");
+        public Feedback(IFeedBackDataService feedBackDataService)
+        {
+            _feedBackDataService = feedBackDataService;
+        }
+
+        public async Task GenerateFeedbackAsync(string input, EnumTipoFeedback tipoFeedback)
+        {
+            var entity = new FeedbackData
+            {
+                Input = input,
+                Tipo = tipoFeedback,
+                CreatAt = DateTime.Now,
+                UpdateAt = DateTime.Now
+            };
+
+            await _feedBackDataService.CreateAsync(entity);
         }
     }
 }

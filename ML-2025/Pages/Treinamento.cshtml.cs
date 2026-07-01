@@ -1,39 +1,33 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ML_2025.DTOs;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+using ML_2025.Services.Interfaces;
 
 namespace ML_2025.Pages
 {
     public class TreinamentoModel : PageModel
     {
+        private readonly ITreinamentoDataService _treinamentoDataService;
+
+        public TreinamentoModel(ITreinamentoDataService treinamentoDataService)
+        {
+            _treinamentoDataService = treinamentoDataService;
+        }
+
         public List<TreinamentoEntry> DadosTreinamento { get; set; } = new List<TreinamentoEntry>();
 
-        public void OnGet()
+        public async Task OnGetAsync()
         {
-            string caminho = @"MLModels\sentiment.csv";
-            if (System.IO.File.Exists(caminho))
-            {
-                var lines = System.IO.File.ReadAllLines(caminho).Skip(1); // skip header
-                foreach (var line in lines)
-                {
-                    if (string.IsNullOrWhiteSpace(line)) continue;
+            var dados = await _treinamentoDataService.GetAllAsync();
 
-                    var firstComma = line.IndexOf(',');
-                    if(firstComma > 0)
-                    {
-                        var labelStr = line.Substring(0, firstComma).Trim();
-                        var textStr = line.Substring(firstComma + 1).Trim('"', ' ');
-                        
-                        DadosTreinamento.Add(new TreinamentoEntry
-                        {
-                            Label = labelStr.Equals("true", System.StringComparison.OrdinalIgnoreCase),
-                            Text = textStr
-                        });
-                    }
-                }
-            }
+            DadosTreinamento = dados
+                .OrderBy(t => t.Label)
+                .ThenBy(t => t.Text)
+                .Select(t => new TreinamentoEntry
+                {
+                    Label = t.Label,
+                    Text = t.Text
+                })
+                .ToList();
         }
     }
 }

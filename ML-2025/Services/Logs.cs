@@ -1,24 +1,29 @@
-﻿namespace ML_2025.Services
+using ML_2025.Entidades;
+using ML_2025.Services.Interfaces;
+
+namespace ML_2025.Services
 {
     public class Logs
     {
+        private readonly ILogDataService _logDataService;
 
-        public void GenerateLogRequest(string input)
+        public Logs(ILogDataService logDataService)
         {
-            string log = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss.fff") + " - " + input;
-
-            string Caminho = @"Logs\LogRequisicao.txt";
-            File.AppendAllText(Caminho, log + "\n");
-
+            _logDataService = logDataService;
         }
 
-        public void GenerateLogRequestResponse(string input, string resposta)
+        public async Task GenerateLogAsync(string input, bool result, double timeResponseMs)
         {
-            string log = DateTime.Now.ToString("dd/MM/yyyy  HH:mm:ss.fff") + " - " + input + " - " + resposta;
+            var entity = new LogData
+            {
+                Input = input,
+                Result = result,
+                TimeResponse = timeResponseMs,
+                CreatAt = DateTime.Now,
+                UpdateAt = DateTime.Now
+            };
 
-            string Caminho = @"Logs\LogRequisicaoResposta.txt";
-            File.AppendAllText(Caminho, log + "\n");
-
+            await _logDataService.CreateAsync(entity);
         }
     }
 }

@@ -1,5 +1,4 @@
 ﻿using ML_2025.Tables;
-using System.ComponentModel.DataAnnotations;
 
 namespace ML_2025.DTOs
 {
