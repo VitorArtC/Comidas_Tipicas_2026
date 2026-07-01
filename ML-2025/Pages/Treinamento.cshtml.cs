@@ -20,8 +20,6 @@ namespace ML_2025.Pages
             var dados = await _treinamentoDataService.GetAllAsync();
 
             DadosTreinamento = dados
-                .OrderBy(t => t.Label)
-                .ThenBy(t => t.Text)
                 .Select(t => new TreinamentoEntry
                 {
                     Label = t.Label,

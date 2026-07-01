@@ -48,6 +48,7 @@ using (var scope = app.Services.CreateScope())
     if (File.Exists(csvPath) && !db.Treinamentos.Any())
     {
         var linhas = File.ReadAllLines(csvPath).Skip(1); // pula o cabeçalho
+        int index = 0;
         foreach (var linha in linhas)
         {
             if (string.IsNullOrWhiteSpace(linha)) continue;
@@ -61,7 +62,7 @@ using (var scope = app.Services.CreateScope())
             {
                 Text = texto,
                 Label = labelStr.Equals("true", StringComparison.OrdinalIgnoreCase),
-                CreatAt = DateTime.Now,
+                CreatAt = DateTime.Now.AddMilliseconds(index++),
                 UpdateAt = DateTime.Now
             });
         }
