@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ML_2025.DTOs;
 using System.Collections.Generic;
 using System.IO;
 
@@ -43,12 +44,5 @@ namespace ML_2025.Pages
                 LogEntries.Reverse();
             }
         }
-    }
-
-    public class LogEntry
-    {
-        public string Timestamp { get; set; }
-        public string Input { get; set; }
-        public string Result { get; set; }
     }
 }

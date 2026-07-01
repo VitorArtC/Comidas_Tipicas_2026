@@ -1,0 +1,50 @@
+@page
+@model ML_2025.Pages.FeedbacksModel
+@{
+    ViewData["Title"] = "Feedbacks";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4 text-white">Feedbacks do Sistema</h1>
+    <p class="text-white">Abaixo estão listados todos os feedbacks registrados pelos usuários.</p>
+
+    <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mt-3">
+            <thead class="table-dark">
+                <tr>
+                    <th>Data/Hora</th>
+                    <th>Entrada (Input)</th>
+                    <th>Tipo de Feedback</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Feedbacks != null && Model.Feedbacks.Count > 0)
+                {
+                    foreach (var feedback in Model.Feedbacks)
+                    {
+                        <tr>
+                            <td>@feedback.Timestamp</td>
+                            <td>@feedback.Input</td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(feedback.Tipo) && feedback.Tipo != "-")
+                                {
+                                    <span class="badge bg-info">@feedback.Tipo</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-secondary">Não Informado</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3" class="text-center text-muted">Nenhum feedback encontrado.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -94,3 +94,12 @@
 23/04/2026  00:41:52.656 - Churrasco Gaúcho, Rio Grande do Sul - False
 23/04/2026  00:41:55.649 - Gaúcho, Rio Grande do Sul - False
 23/04/2026  00:42:07.656 - Pamonha, Goiás - True
+28/06/2026  12:11:21.232 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:11:40.580 - Empanada, Espanha - False
+28/06/2026  12:12:00.890 - Empanada, Espanha - False
+28/06/2026  12:17:39.798 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:22:25.828 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:22:27.961 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:22:29.959 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:22:48.961 - Pão de Queijo, Minas Gerais - True
+28/06/2026  12:50:30.948 - Pão de Queijo, Minas Gerais - True

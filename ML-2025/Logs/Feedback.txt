@@ -3,3 +3,5 @@
 04/04/2026 14:27 - Pão de Queijo, Fortaleza | Resposta: Falso (False) | Feedback: positivo
 04/04/2026 14:37 - Pão de Queijo, Fortaleza | Resposta: Falso (False) | Feedback: positivo
 23/04/2026 00:41 - Pequi, Goiás | Resposta: Verdadeiro (True) | Feedback: positivo
+28/06/2026 12:11 - Pão de Queijo, Minas Gerais | Resposta: Verdadeiro (True) | Feedback: positivo
+28/06/2026 12:11 - Empanada, Espanha | Resposta: Falso (False) | Feedback: positivo
